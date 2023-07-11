@@ -1,5 +1,7 @@
-public class HelloMonkies{
+public class Hello{
+    public static void main(String[] args) {
 
-    System.out.println("hello monkes!");
-
+    
+        System.out.println("hello monkes!");
+    }
 }
