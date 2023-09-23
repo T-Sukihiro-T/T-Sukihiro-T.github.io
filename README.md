@@ -1,5 +1,5 @@
-# Web-Homepage
-homepage for new webpage
+# A Whole Lotta Practice XD
+Sll of my practice files for you to laugh at XD
 
-I had a hard time making this, but here we are, you first webpage.
+Try some stuff out!
 
